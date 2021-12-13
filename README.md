@@ -1,9 +1,9 @@
 ### Dapp, Blockchain, Web3, Solidity Developer👋
 
 #### Interest
-> Bitcoin, Ethereum, Klaytn
-> Solidity, React, Web3
-> DAO, DEX, Dapp, NFT
+* Bitcoin, Ethereum, Klaytn
+* Solidity, React, Web3
+* DAO, DEX, Dapp, NFT
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeok230)](https://github.com/anuraghazra/github-readme-stats)

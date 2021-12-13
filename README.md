@@ -1,12 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dapp Developer🌱%20render&fontSize=90)
+## Dapp Developer🌱
 
 ### Interest
 * Bitcoin, Ethereum, Klaytn
 * Solidity, React, Web3
 * DAO, DEX, Dapp, NFT
-
-### Goal
-
 
 
 <!--

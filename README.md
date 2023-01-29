@@ -1,9 +1,9 @@
-## Dapp Developer🌱
+<!-- ## Dapp Developer🌱
 
 ### Interest
 * Bitcoin, Ethereum, Klaytn
 * Solidity, React, Web3
-* DAO, DEX, Dapp, NFT
+* DAO, DEX, Dapp, NFT -->
 
 
 <!--
